@@ -8,5 +8,6 @@
       "matchDatasources": ["npm"],
       "abandonmentThreshold": "1 year"
     }
-  ]
+  ],
+  "baseBranches": ["main","dev"]
 }
